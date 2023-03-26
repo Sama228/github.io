@@ -1,0 +1,15 @@
+body{
+    background-color:black
+}
+nav>a{
+    text-decoration: none;
+    color:black;
+    text-align: end;
+    font-size: 40px;
+}
+header{
+    background-color: yellow;
+}
+article{
+    color: white
+}
